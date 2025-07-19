@@ -10,7 +10,7 @@ I built a dashboard for iCardio.ai that scrapes PubMed and arXiv for articles th
 ### [Echo-Scout Agent](https://github.com/AriGilgur/echo_ai_agent)
 I Developed a fully automated pipeline for iCardio.ai that fetches and summarizes the latest research papers on echocardiography and artificial intelligence from PubMed and arXiv, and delivers a weekly HTML email digest to clinical researchers, using GitHub, OpenAI, and SendGrid. i learned how to use API keys, GitHub actions/workflows, and Python.
 
-### [Project Three](https://github.com/AriGilgur/project-three)
+### [EchoNet Mini-Classifier](https://github.com/AriGilgur/project-three)
 A short description of Project Three, what it does, and technologies used.
 
 ---
