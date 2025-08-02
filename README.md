@@ -10,8 +10,7 @@ I built a dashboard for iCardio.ai that scrapes PubMed and arXiv for articles th
 ### [Echo-Scout Agent](https://github.com/AriGilgur/echo_ai_agent)
 I Developed a fully automated pipeline for iCardio.ai that fetches and summarizes the latest research papers on echocardiography and artificial intelligence from PubMed and arXiv, and delivers a weekly HTML email digest to clinical researchers, using GitHub, OpenAI, and SendGrid. i learned how to use API keys, GitHub actions/workflows, and Python.
 
-### [EchoNet Mini-Classifier](https://github.com/AriGilgur/mnist-digit-recognizer.git)
+### [MNIST-Digit-Recognizer](https://github.com/AriGilgur/mnist-digit-recognizer.git)
 I built a web app that recognizes handwritten digits (0-9) drawn by users using a convolutional neural network (CNN) trained on the MNIST dataset. Built with PyTorch and Streamlit for easy interaction and real-time predictions.
----
 
 Feel free to check out my GitHub for more projects!
