@@ -17,7 +17,7 @@ I built a web app that recognizes handwritten digits (0-9) drawn by users using 
 ### [Dream-Cook-Agent](https://github.com/AriGilgur/mnist-digit-recognizer.git)
 I developed a fully automated TikTok content generator that creates short cooking videos based on randomly selected ingredients. The system uses OpenAI to generate 3-step recipes with engaging titles, captions, and voiceovers, while MoviePy and Pillow handle video editing and text overlays. I learned how to integrate generative AI into media workflows, manage API-based assets, and build end-to-end automation in Python.
 
-Summer Internship Reflection – iCardio.AI
+### Summer Internship Reflection – iCardio.AI
 This summer, I interned at iCardio.AI, where I worked on projects that combined artificial intelligence with clinical research in echocardiography. I built tools that automatically collected and summarized new research papers, created a dashboard to track weekly articles, and developed a system that sent research updates to doctors by email. Through these projects, I learned how to use APIs, GitHub workflows, and Python to create real working tools. I also gained experience with OpenAI models and saw how automation can save time for researchers. Overall, this internship gave me the chance to apply programming skills to real-world problems in healthcare and helped me understand how AI can be used in medicine.
 
 Feel free to check out my GitHub for more projects!
